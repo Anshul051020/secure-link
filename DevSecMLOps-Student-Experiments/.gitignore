@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+*.py[cod]
+results.json
+scan_report.json
